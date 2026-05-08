@@ -7,5 +7,5 @@ Este repositorio contiene ejercicios de:
 - Comparaciones
 - Operadores lógicos
 
-## Autor
-Tu Nombre
+## Autor 
+Tu Gustavo Soto Cardenas 
